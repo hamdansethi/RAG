@@ -1,5 +1,3 @@
-# Naive RAG And Advanced RAG:
-
 # 📚 Retrieval-Augmented Generation (RAG)
 
 ## 🔁 General Steps in RAG
